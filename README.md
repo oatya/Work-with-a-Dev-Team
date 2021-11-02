@@ -6,7 +6,7 @@ I've done this school project at Codecool's tester course.
 
 After we’ve learned to design manual test cases, creating & executing test cycles, making reports, and presenting the results we've worked with other developers on a project. This project took two weeks to finish, so we had plenty of time to practice our communication and teamwork skills besides the technicalities.
 
-The main challenge was be to support a development team’s work with QA activities. We've written tests for their ongoing project, handled the test cases in Zephyr Scale as usual, created cycles, executed them, and of course created a report.
+The main challenge was to support a development team’s work with QA activities. We've written tests for their ongoing project, handled the test cases in Zephyr Scale as usual, created cycles, executed them, and of course created a report.
 
 We had to collect the requirements from the development team.
 
